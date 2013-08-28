@@ -6,5 +6,5 @@ This repository contains [the HTML template](newsletter.html) used in Mailchimp 
 
 ## Past Issues
 
-29/08/2013 - [Laravel Weekly #22](http://us7.campaign-archive1.com/?u=60fa14809d4de70a885daf382&id=e3cc4c94d4)
-23/08/2013 - [Laravel Weekly #21](http://us7.campaign-archive2.com/?u=60fa14809d4de70a885daf382&id=c4862519b5)
+29/08/2013 - [Laravel Weekly #22](http://us7.campaign-archive1.com/?u=60fa14809d4de70a885daf382&id=e3cc4c94d4)  
+23/08/2013 - [Laravel Weekly #21](http://us7.campaign-archive2.com/?u=60fa14809d4de70a885daf382&id=c4862519b5)  
