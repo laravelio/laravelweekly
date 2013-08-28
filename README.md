@@ -1,6 +1,6 @@
 # Laravel Weekly
 
-A Weekly Laravel newsletter.
+A Weekly Laravel newsletter. [Click here](http://eepurl.com/DGabL) to sign-up.
 
 This repository contains [the HTML template](newsletter.html) used in Mailchimp for creating the Laravel Weekly email campaigns. Feel free to contribute by sending in pull requests.
 

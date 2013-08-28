@@ -67,6 +67,12 @@
 		****************************************************
 		***************************************************/
 		@media only screen and (max-device-width: 480px) {
+			/* Bare minimum to make email responsive on small screens. */
+			body[yahoo] table { width: 100% !important; }
+			body[yahoo] .img_100 {
+				width: 100% !important;
+				height: auto !important;
+			}
 			/* Part one of controlling phone number linking for mobile. */
 			a[href^="tel"], a[href^="sms"] {
 						text-decoration: none;
@@ -141,7 +147,7 @@
 		</style>
 	<![endif]-->
 </head>
-<body style="background-color:#FFFFFF">
+<body yahoo="fix" style="background-color:#FFFFFF">
 <!-- Wrapper/Container Table: Use a wrapper table to control the width and the background color consistently of your email. Use this approach instead of setting attributes on the body tag. -->
 <table cellpadding="0" cellspacing="0" border="0" id="backgroundTable">
 	<tr>
@@ -158,7 +164,7 @@
 		<table width="600" cellpadding="0" cellspacing="0" border="0">
 			<tr><td height="50"></td></tr>
 			<tr>
-				<td><img src="logo.png" width="600" height="153" /></td>
+				<td><img src="logo.png" width="600" height="153" class="img_100" /></td>
 			</tr>
 		</table>
 		<table cellpadding="0" cellspacing="0" border="0" style="font-family:helvetica,arial,sans-serif;line-height:28px;color:#7D787F;">
@@ -253,21 +259,29 @@
 						Events
 					</h2>
 
-					<table cellpadding="0" cellspacing="0" border="0" width="550">
+					<table cellpadding="0" cellspacing="0" border="0" width="550" style="line-height: 23px;">
 						<tr>
-							<td>17/08</td>
-							<td>Talk</td>
-							<td>Boston, MA</td>
-							<td><a style="color:#E37B6E;" href="http://www.northeastphp.org/talks/view/10/Introduction-to-Laravel">Introduction to Laravel</a></td>
+							<td valign="top">05/09</td>
+							<td width="2%">&nbsp;</td>
+							<td valign="top">Meeting</td>
+							<td width="2%">&nbsp;</td>
+							<td valign="top">Southlake, TX</td>
+							<td width="2%">&nbsp;</td>
+							<td valign="top"><a href="http://www.meetup.com/laravel-dallas-fort-worth/events/133727892/" style="color:#E37B6E;">Laravel DFW Monthly Meetup</a></td>
 						</tr>
 						<tr>
-							<td>30/08 - 31/08</td>
-							<td>Conference</td>
-							<td>Amsterdam</td>
-							<td><a style="color:#E37B6E;" href="http://laracon.eu">Laracon EU 2013</a></td>
+							<td colspan="7" style="line-height: 15px; font-size: 0;">&nbsp;</td>
+						</tr>
+						<tr>
+							<td valign="top">12/09</td>
+							<td width="2%">&nbsp;</td>
+							<td valign="top">Meeting</td>
+							<td width="2%">&nbsp;</td>
+							<td valign="top">Fishers, IN</td>
+							<td width="2%">&nbsp;</td>
+							<td valign="top"><a href="http://www.meetup.com/Laravel-Modern-Web-Apps-in-Carmel-Fishers-Indianapolis/events/135898802/" style="color:#E37B6E;">Discuss Modern Web &amp; Mobile Development, &amp; Laravel 4&#39;s Progress</a></td>
 						</tr>
 					</table>
-
 					<br>
 				</td>
 				<td width="25" valign="top"></td>
