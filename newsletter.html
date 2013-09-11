@@ -43,11 +43,11 @@
         h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {color: blue !important;}
 
         h1 a:active, h2 a:active,  h3 a:active, h4 a:active, h5 a:active, h6 a:active {
-            color: red !important; /* Preferably not the same color as the normal header link color.  There is limited support for psuedo classes in email clients, this was added just for good measure. */
+            color: #E37B6E !important; /* Preferably not the same color as the normal header link color.  There is limited support for psuedo classes in email clients, this was added just for good measure. */
         }
 
         h1 a:visited, h2 a:visited,  h3 a:visited, h4 a:visited, h5 a:visited, h6 a:visited {
-            color: purple !important; /* Preferably not the same color as the normal header link color. There is limited support for psuedo classes in email clients, this was added just for good measure. */
+            color: #ABABAB !important; /* Preferably not the same color as the normal header link color. There is limited support for psuedo classes in email clients, this was added just for good measure. */
         }
 
         /* Outlook 07, 10 Padding issue fix
@@ -201,19 +201,10 @@
                         </h2>
 
                         <div mc:repeatable>
-                            <p style="text-align:center;font-style:italic;" mc:edit="event_date_and_location">September 12, 2013 - Fishers, IN</p>
-
-                            <h3 mc:edit="event_title">
-                                Discuss Modern Web &amp; Mobile Development, &amp; Laravel 4&#39;s Progress
+                            <h3 style="text-align:center;">
+                                <span style="font-style:italic;font-weight:normal;font-size:16px" mc:edit="event_date_and_location">September 12, 2013 - Fishers, IN</span><br>
+                                <span mc:edit="event_title"><a href="http://www.meetup.com/Laravel-Modern-Web-Apps-in-Carmel-Fishers-Indianapolis/events/135898802/" style="color:#E37B6E;">Discuss Modern Web &amp; Mobile Development, &amp; Laravel 4&#39;s Progress</a></span>
                             </h3>
-
-                            <div mc:edit="event_content">
-                                <p>
-                                    Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-                                </p>
-                            </div>
-
-                            <p mc:edit="event_link" style="text-align:center"><a href="http://www.meetup.com/Laravel-Modern-Web-Apps-in-Carmel-Fishers-Indianapolis/events/135898802/" style="color:#E37B6E;">More Info &raquo;</a></p>
                         </div>
                         <br>
                     </td>
