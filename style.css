@@ -1,0 +1,77 @@
+/* General
+---------------------------------------------------------*/
+
+body {
+    color: #7D787F;
+    background-color: white;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 1.2em;
+    line-height: 1.6em;
+}
+
+a {
+    color: #D58276;
+    text-decoration: none;
+}
+a:hover {
+    text-decoration: underline;
+}
+
+strong {
+    color: #D58276;
+    font-weight: bold;
+}
+
+hr {
+    background-color: #ccc;
+    border: none;
+    height: 1px;
+}
+
+.text-center {
+    text-align: center;
+}
+
+/* Container
+---------------------------------------------------------*/
+
+#container {
+    margin: 0 auto;
+    max-width: 550px;
+}
+
+#container img {
+    display: block;
+    margin: 0 auto;
+    max-width: 100%;
+}
+
+/* Form
+---------------------------------------------------------*/
+
+#mc_embed_signup .mc-field-group label {
+    color: #7D787F;
+    font-size: .9em;
+    font-weight: bold;
+}
+#mc_embed_signup .mc-field-group input {
+    background-color: #EEEEEE;
+    border: 2px solid #EBBDB5;
+    color: #333;
+    font-size: 0.8em;
+    padding: 10px 5%;
+    width: 90%;
+}
+
+#mc_embed_signup .button {
+    background-color: #D58276;
+    margin-top: 20px;
+}
+
+/* Footer
+---------------------------------------------------------*/
+
+.footer {
+    font-size: .8em;
+    text-align: center;
+}
