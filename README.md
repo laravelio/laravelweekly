@@ -30,6 +30,6 @@ The source code for the [laravelweekly.com](http://laravelweekly.com) website ca
 21/04/2013 - [Laravel learnings: week 6](http://driesvints.com/blog/laravel-learnings-week-6/)  
 14/04/2013 - [Laravel 4 learnings: week 5](http://driesvints.com/blog/laravel-4-learnings-week-5/)  
 07/04/2013 - [Laravel 4 learnings: week 4](http://driesvints.com/blog/laravel-4-learnings-week-4/)  
-31/03/2013 - [Laravel 4 learnings: week 3](http://driesvints.com/blog/laravel-4-learnings-week-3/)
+31/03/2013 - [Laravel 4 learnings: week 3](http://driesvints.com/blog/laravel-4-learnings-week-3/)  
 24/03/2013 - [Laravel 4 learnings: week 2](http://driesvints.com/blog/laravel-4-learnings-week-2/)  
 17/03/2013 - [Laravel 4 learnings: week 1](http://driesvints.com/blog/weekly-laravel-4-learnings-week-1/)  
