@@ -8,13 +8,13 @@ The source code for the [laravelweekly.com](http://laravelweekly.com) website ca
 
 ## Past Issues
 
-17/10/2013 - [Laravel Weekly #27](http://us7.campaign-archive1.com/?u=60fa14809d4de70a885daf382&id=5f2ba63d87)  
-07/10/2013 - [Laravel Weekly #26](http://us7.campaign-archive1.com/?u=60fa14809d4de70a885daf382&id=3bb6e895bf)  
-01/10/2013 - [Laravel Weekly #25](http://us7.campaign-archive2.com/?u=60fa14809d4de70a885daf382&id=19dd711e7a)  
-24/09/2013 - [Laravel Weekly #24](http://us7.campaign-archive1.com/?u=60fa14809d4de70a885daf382&id=485e74fc32)  
-13/09/2013 - [Laravel Weekly #23](http://us7.campaign-archive1.com/?u=60fa14809d4de70a885daf382&id=7d3830b80c)  
-29/08/2013 - [Laravel Weekly #22](http://us7.campaign-archive1.com/?u=60fa14809d4de70a885daf382&id=e3cc4c94d4)  
-23/08/2013 - [Laravel Weekly #21](http://us7.campaign-archive2.com/?u=60fa14809d4de70a885daf382&id=c4862519b5)  
+17/10/2013 - [Laravel Weekly #27](http://us7.campaign-archive1.com/?u=60fa14809d4de70a885daf382&id=5f2ba63d87) (558 Readers)  
+07/10/2013 - [Laravel Weekly #26](http://us7.campaign-archive1.com/?u=60fa14809d4de70a885daf382&id=3bb6e895bf) (461 Readers)  
+01/10/2013 - [Laravel Weekly #25](http://us7.campaign-archive2.com/?u=60fa14809d4de70a885daf382&id=19dd711e7a) (445 Readers)  
+24/09/2013 - [Laravel Weekly #24](http://us7.campaign-archive1.com/?u=60fa14809d4de70a885daf382&id=485e74fc32) (418 Readers)  
+13/09/2013 - [Laravel Weekly #23](http://us7.campaign-archive1.com/?u=60fa14809d4de70a885daf382&id=7d3830b80c) (406 Readers)  
+29/08/2013 - [Laravel Weekly #22](http://us7.campaign-archive1.com/?u=60fa14809d4de70a885daf382&id=e3cc4c94d4) (363 Readers)  
+23/08/2013 - [Laravel Weekly #21](http://us7.campaign-archive2.com/?u=60fa14809d4de70a885daf382&id=c4862519b5) (198 Readers)  
 14/08/2013 - [Laravel Weekly #20](http://laravel.io/topic/45/laravel-weekly-20)  
 06/08/2013 - [Laravel Weekly #19](http://laravel.io/topic/42/laravel-weekly-19)  
 02/08/2013 - [Laravel Weekly #18](http://laravel.io/topic/40/laravel-weekly-18)  
