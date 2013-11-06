@@ -8,6 +8,7 @@ The source code for the [laravelweekly.com](http://laravelweekly.com) website ca
 
 ## Past Issues
 
+07/11/2013 - [Laravel Weekly #28](http://us7.campaign-archive1.com/?u=60fa14809d4de70a885daf382&id=e886de53cb) (618 Readers)  
 17/10/2013 - [Laravel Weekly #27](http://us7.campaign-archive1.com/?u=60fa14809d4de70a885daf382&id=5f2ba63d87) (558 Readers)  
 07/10/2013 - [Laravel Weekly #26](http://us7.campaign-archive1.com/?u=60fa14809d4de70a885daf382&id=3bb6e895bf) (461 Readers)  
 01/10/2013 - [Laravel Weekly #25](http://us7.campaign-archive2.com/?u=60fa14809d4de70a885daf382&id=19dd711e7a) (445 Readers)  
