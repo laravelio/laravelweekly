@@ -32,6 +32,11 @@ hr {
     text-align: center;
 }
 
+h2 {
+    color: #D58276;
+    text-align: center;
+}
+
 /* Container
 ---------------------------------------------------------*/
 
@@ -66,6 +71,20 @@ hr {
 #mc_embed_signup .button {
     background-color: #D58276;
     margin-top: 20px;
+}
+
+/* Past Issues
+---------------------------------------------------------*/
+
+#past-issues {
+    width: 100%;
+}
+#past-issues th {
+    text-align: left;
+}
+#past-issues tr th:last-child,
+#past-issues tr td:last-child {
+    text-align: center;
 }
 
 /* Footer
