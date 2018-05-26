@@ -1,6 +1,6 @@
 # Laravel Weekly
 
-**Laravel Weekly is currently on hold. We'll be integratig the service into [Laravel.IO](http://laravel.io) in the near future.**
+**Laravel Weekly is currently on hold. We'll be integratig the service into [Laravel.io](http://laravel.io) in the near future.**
 
 A weekly Laravel newsletter. [Click here](http://laravelweekly.com) to sign-up.
 
