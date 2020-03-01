@@ -12,21 +12,6 @@
     <!-- Stylesheet -->
     <link rel="stylesheet" href="http://cdn-images.mailchimp.com/embedcode/classic-081711.css">
     <link rel="stylesheet" href="style.css">
-
-    <!-- Google Analytics -->
-    <script type="text/javascript">
-        var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-        document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-    </script>
-    <script type="text/javascript">
-        try {
-            var _gaq = _gaq || [];
-            _gaq.push(["_setAccount", "UA-18478762-7"]);
-            _gaq.push(["_setDomainName", ".list-manage.com"]);
-            _gaq.push(["_trackPageview"]);
-            _gaq.push(["_setAllowLinker", true]);
-        } catch(err) {console.log(err);}
-    </script>
 </head>
 <body>
 
@@ -51,5 +36,19 @@
     </p>
 </div>
 
+<script>
+    (function(f, a, t, h, o, m){
+    a[h]=a[h]||function(){
+    (a[h].q=a[h].q||[]).push(arguments)
+    };
+    o=f.createElement('script'),
+    m=f.getElementsByTagName('script')[0];
+    o.async=1; o.src=t; o.id='fathom-script';
+    m.parentNode.insertBefore(o,m)
+    })(document, window, 'https://cdn.usefathom.com/tracker.js', 'fathom');
+    fathom('set', 'siteId', 'AXIAVRVG');
+    fathom('trackPageview');
+</script>
+    
 </body>
 </html>
